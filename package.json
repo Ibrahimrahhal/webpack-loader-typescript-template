@@ -1,7 +1,7 @@
 {
   "name": "webpack-loader-typescript-template",
   "version": "1.0",
-  "description": "Webpack loader that enables pug like inheritance for any file type",
+  "description": "Template for creating webpack loaders that uses typescript",
   "main": "dist/src/index.js",
   "scripts": {
     "test": "npm run build && jest",
